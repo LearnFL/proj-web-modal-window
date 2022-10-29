@@ -1,7 +1,8 @@
 # JavaScript modal window
 
 ### Process
-JavaScript and CSS.
+JavaScript and CSS. Inspired by Jonas Schmedtmann, implementation is mine.
+
 
 ### See Live page
 [live page](https://learnfl.github.io/proj-web-modal-window/)
